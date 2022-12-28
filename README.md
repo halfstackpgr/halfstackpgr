@@ -8,8 +8,8 @@ A Python Developer and a Discord Bot Developer.
 ---
 
 ### Discord Status
-<a href="https://discord.com/users/909619403350503536">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/909619403350503536.png" />
+<a href="https://discord.c99.nl/widget/theme-2/909619403350503536.png">
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/909619403350503536.png" />
 </a>
 
 ### Languages and Tools : 
