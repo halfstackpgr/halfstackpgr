@@ -1,8 +1,8 @@
-### Hi there, I'm Flank 👋
-A Passionate Python Developer and Full Stack Discord Developer
+### Hi there, I'm Parth 👋
+A Python Developer and a Discord Bot Developer.
 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: Via Discord
+- 📫 How to reach me: Via Discord 
 
 
 ---
