@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img src="https://cdn.discordapp.com/attachments/1060959617905074177/1066558847218618388/anime-keyboard-typing-keyboard-anime.gif">
 </div>
 <h1 align="center">Hi , I'm Parth <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
