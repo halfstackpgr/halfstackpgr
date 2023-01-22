@@ -17,6 +17,8 @@ A Python Developer and a Discord Bot Developer.
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedarkr" alt="halfstackpgr" />
 </p>
+
+
 ### Discord Status
 <a href="https://discord.c99.nl/widget/theme-2/909619403350503536.png">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/909619403350503536.png" />
