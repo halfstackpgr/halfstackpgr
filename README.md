@@ -16,9 +16,9 @@
 
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=halfstackpgr&theme=dracula)](https://github.com/halfstackpgr)
-  <br/>
+
 
 
 ### Discord Status
