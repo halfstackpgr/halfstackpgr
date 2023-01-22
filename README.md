@@ -28,9 +28,18 @@
 
 ### Languages and Tools : 
 
-[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://python.org)
-[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com)
-<br />
+
+  
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <br />
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
 <br />
