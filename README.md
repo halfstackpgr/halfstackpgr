@@ -1,5 +1,5 @@
 <div>
-    <img src="https://cdn.discordapp.com/attachments/1060959617905074177/1066560623326007296/1c4facad627b098885aec6266b8c6c0e.gif" width="1080" height="400">
+    <img src="https://cdn.discordapp.com/attachments/1060959617905074177/1066560623326007296/1c4facad627b098885aec6266b8c6c0e.gif" width="1080" height="200">
 </div>
 <h1 align="center">Hi , I'm Parth <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
