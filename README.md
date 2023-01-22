@@ -6,10 +6,10 @@ A Python Developer and a Discord Bot Developer.
 
 ---
 #### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats",  align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfstackpgr&count_private=true&show_icons=true&theme=onedark" alt="Parth's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats", align="center">
+</a align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfstackpgr&count_private=true&langs_count=3&theme=onedark" />
 </a>
 <br />
