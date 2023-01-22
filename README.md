@@ -17,7 +17,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/halfstackpgr"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com](https://github-readme-activity-graph.cyclic.app/graph?username=halfstackpgr&custom_title=Parth's%20Contribution%20Graph&theme=react-dark" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=halfstackpgr&theme=dracula)](https://github.com/halfstackpgr)
   <br/>
 
 
