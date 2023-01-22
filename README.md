@@ -27,13 +27,12 @@
 
 
 ### Languages and Tools : 
-
-
+<p align="center">
   
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="22%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="22%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="22%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="22%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
