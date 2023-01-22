@@ -1,8 +1,7 @@
 ### Hi there, I'm Parth 👋
 A Python Developer and a Discord Bot Developer.
 
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: Via Discord 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&duration=1000&pause=1000&color=1BF700&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Started+with+batch+files+;Shifted+to+Cyber+Security+;Was+a+skid+back+then;Moved+to+threat+protection;Learnt+Python;Learnt+logic;Polished+Maths;And+here+I+am+experimenting+with;AI+and+ML+frameworks.)](https://git.io/typing-svg)
 
 
 ---
