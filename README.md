@@ -1,5 +1,5 @@
 <div>
-    <img src="https://cdn.discordapp.com/attachments/1060959617905074177/1066558847218618388/anime-keyboard-typing-keyboard-anime.gif">
+    <img src="https://cdn.discordapp.com/attachments/1060959617905074177/1066558847218618388/anime-keyboard-typing-keyboard-anime.gif" width="300" height="300">
 </div>
 <h1 align="center">Hi , I'm Parth <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
