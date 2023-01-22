@@ -1,7 +1,10 @@
+<div align="center">
+    <img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
+</div>
 <h1 align="center">Hi , I'm Parth <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  
-<img 
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&duration=1000&pause=1000&color=1BF700&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Started+with+batch+files+;Shifted+to+Cyber+Security+;Was+a+skid+back+then;Moved+to+threat+protection;Learnt+Python;Learnt+logic;Polished+Maths;And+here+I+am+experimenting+with;AI+and+ML+frameworks.)](https://git.io/typing-svg)
 
