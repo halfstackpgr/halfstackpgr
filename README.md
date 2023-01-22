@@ -22,6 +22,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=halfstackpgr&theme=dracula)](https://github.com/halfstackpgr)
 
 
+<iframe src="https://discord.com/widget?id=972081942797352990&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 ### Discord Status
 <a href="https://discord.c99.nl/widget/theme-2/909619403350503536.png">
