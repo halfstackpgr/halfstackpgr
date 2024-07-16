@@ -5,7 +5,7 @@
 
 > [!TIP]
 > I am proficient in Rust, Python, Perl, Haskel, Assembly, Kotlin, Java, and some other frameworks and languages of Web Development.
-> I desire to achieve my field sucess in AI/DL.
+> I desire to achieve my fields sucess in AI/DL.
 
 > [!IMPORTANT]  
 > I am always on a project.
